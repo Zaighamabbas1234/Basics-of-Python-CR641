@@ -1,2 +1,2 @@
 # Basics-of-Python
-Basics of Python Practice.
+Basics of Python practice by Zaigham Abbas at Uniathena Learning Platefoam.

@@ -46,3 +46,7 @@ This repository contains Python basics and practice programs developed during my
 - Add mini-projects.
 - Include quizzes and coding challenges.
 - Expand the repository with Data Science examples.
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**

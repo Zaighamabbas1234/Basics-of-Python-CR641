@@ -10,16 +10,16 @@ This repository contains Python basics and practice programs developed during my
 - Type Casting.
 - Operators.
 - Conditional Statements.
-  - `if`.
-  - `elif`.
-  - `else`.
+  - `if`
+  - `elif`
+  - `else`
 - Loops.
   - `for` loop.
   - `while` loop.
 - Control Statements.
-  - `break`.
-  - `continue`.
-  - `pass`.
+  - `break`
+  - `continue`
+  - `pass`
 - Strings and String Operations.
 - Lists.
 - Tuples.
